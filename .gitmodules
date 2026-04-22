@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "printify"]
+	path = printify
+	url = https://github.com/s3rdia/printify
 [submodule "qol"]
 	path = qol
 	url = https://github.com/s3rdia/qol
